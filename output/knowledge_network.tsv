@@ -1,0 +1,530 @@
+SP ID	Knowledge Network
+1000	Letters_Literary
+1001	Letters_Literary
+1002	Letters_Literary
+1003	Political Economy
+1004	Letters_Philosophical
+1004	Letters_Literary
+1005	Letters_Literary
+1009	Sciences_Mathematical
+1014	Letters_Literary
+1014	Collector
+1015	Letters_Literary
+1018	Letters_Literary
+1019	Sciences_Natural
+1019	Sciences_Mathematical
+1019	Sciences
+1019	Letters_Philosophical
+1021	Letters_Philosophical
+1022	Letters_Literary
+1022	Letters
+1023	Letters_Literary
+1024	Letters_Literary
+1024	Letters_Philosophical
+1024	Sciences
+1025	Letters_Philosophical
+1026	Letters_Literary
+1026	Sciences_Natural
+1026	Sciences_Mathematical
+1027	Letters_Literary
+1028	Letters
+1029	Sciences_Mathematical
+1029	Sciences
+1030	Letters_Literary
+1030	Sciences
+1031	Letters_Literary
+1032	Letters_Literary
+1032	Political Economy
+1032	Letters_Philosophical
+1033	Letters_Philosophical
+1033	Letters_Literary
+1034	Sciences_Natural
+1036	Letters_Literary
+1036	Letters_Philosophical
+1037	Letters
+1038	Sciences_Medicine
+1039	Letters
+1040	Sciences
+1041	Sciences_Natural
+1042	Letters_Literary
+1043	Sciences_Medicine
+1044	Letters_Literary
+1044	Political Economy
+1045	Political Economy
+1046	Sciences
+1047	Sciences_Medicine
+1048	Sciences_Medicine
+1049	Letters
+1049	Political Economy
+1050	Letters
+1051	Political Economy
+1052	Letters
+1053	Sciences_Natural
+1054	Sciences_Natural
+1055	Letters
+1056	Letters_Literary
+1057	Letters
+1057	Political Economy
+1058	Letters_Literary
+1058	Political Economy
+1059	Sciences_Mathematical
+1059	Letters
+1061	Letters_Literary
+1061	Political Economy
+1062	Sciences_Medicine
+1063	Sciences
+1064	Sciences_Mathematical
+1065	Letters_Philosophical
+1065	Sciences_Natural
+1066	Sciences_Natural
+1067	Sciences_Mathematical
+1068	Letters
+1069	Sciences_Mathematical
+1069	Sciences_Natural
+1070	Political Economy
+1071	Letters_Literary
+1072	Sciences_Mathematical
+1073	Letters_Philosophical
+1073	Letters_Literary
+1074	Sciences_Natural
+1074	Sciences_Mathematical
+1075	Sciences_Natural
+1075	Political Economy
+1076	Sciences_Medicine
+1076	Sciences_Natural
+1077	Letters_Literary
+1077	Sciences_Natural
+1077	Political Economy
+1078	Sciences_Medicine
+1079	Letters
+1080	Sciences_Natural
+1081	Letters_Literary
+1081	Letters_Religious
+1081	Political Economy
+1082	Sciences_Medicine
+1082	Sciences_Natural
+1083	Letters_Philosophical
+1084	Sciences_Natural
+1085	Sciences_Natural
+1085	Letters
+1086	Sciences_Natural
+1086	Letters_Literary
+1087	Letters_Literary
+1088	Sciences_Medicine
+1088	Sciences_Natural
+1089	Sciences_Natural
+1090	Letters
+1091	Letters_Literary
+1092	Letters
+1094	Sciences_Medicine
+1095	Letters_Philosophical
+1095	Letters
+1096	Sciences_Medicine
+1098	Sciences_Mathematical
+1098	Letters_Religious
+1098	Letters_Antiquarian
+1099	Sciences_Natural
+1101	Letters_Philosophical
+1102	Letters_Literary
+1102	Sciences_Natural
+1103	Sciences
+1104	Sciences_Medicine
+1105	Letters
+1106	Sciences_Medicine
+1107	Sciences_Medicine
+1107	Sciences_Natural
+1108	Sciences_Natural
+1108	Sciences_Medicine
+1109	Letters
+1110	Sciences
+1111	Sciences_Medicine
+1111	Sciences_Natural
+1112	Letters_Philosophical
+1112	Letters_Religious
+1113	Letters_Literary
+1113	Letters_Philosophical
+1113	Sciences_Natural
+1114	Letters_Literary
+1114	Letters_Philosophical
+1115	Political Economy
+1115	Letters_Literary
+1116	Sciences_Mathematical
+1116	Letters_Literary
+1116	Sciences_Natural
+1117	Sciences_Natural
+1118	Sciences_Natural
+1119	Letters_Literary
+1119	Letters_Antiquarian
+1119	Sciences_Natural
+1120	Sciences_Medicine
+1120	Sciences_Natural
+1121	Letters_Literary
+1121	Political Economy
+1122	Sciences_Mathematical
+1123	Letters_Literary
+1123	Letters_Philosophical
+1123	Political Economy
+1124	Letters_Literary
+1125	Letters_Literary
+1126	Letters_Literary
+1127	Letters_Religious
+1127	Letters_Philosophical 
+1128	Letters_Philosophical
+1128	Political Economy
+1128	Letters_Literary
+1129	Letters_Literary
+1130	Sciences_Mathematical
+1130	Letters_Literary
+1130	Political Economy
+1131	Sciences_Mathematical
+1132	Letters_Literary
+1132	Sciences_Medicine
+1133	Sciences_Natural
+1133	Letters_Literary
+1134	Letters
+1135	Letters_Literary
+1135	Political Economy
+1135	Letters_Religious
+1135	Letters_Philosophical
+1136	Letters_Literary
+1136	Sciences_Natural
+1137	Sciences_Medicine
+1138	Sciences_Medicine
+1139	Letters_Literary
+1140	Letters_Literary
+1142	Letters_Literary
+1143	Letters_Religious
+1144	Sciences_Mathematical
+1144	Sciences_Medicine
+1144	Sciences_Natural
+1145	Sciences
+1146	Letters_Antiquarian
+1146	Sciences_Mathematical
+1147	Letters_Literary
+1148	Sciences_Medicine
+1148	Letters_Literary
+1148	Political Economy
+1149	Sciences_Mathematical
+1150	Letters_Literary
+1152	Letters_Literary
+1152	Letters_Religious
+1152	Letters_Philosophical
+1152	Sciences_Mathematical
+1152	Sciences_Natural
+1152	Sciences_Medicine
+1152	Political Economy
+1153	Letters_Literary
+1153	Sciences
+1154	Letters_Philosophical
+1154	Sciences_Mathematical
+1155	Political Economy
+1155	Letters_Literary
+1156	Letters_Literary
+1156	Letters_Philosophical
+1157	Letters_Literary
+1158	Letters_Literary
+1159	Letters
+1159	Sciences_Natural
+1159	Letters_Philosophical
+1159	Political Economy
+1160	Letters_Literary
+1160	Political Economy
+1164	Letters_Literary
+1165	Letters_Philosophical
+1165	Letters_Literary
+1165	Political Economy
+1166	Letters_Philosophical
+1167	Political Economy
+1167	Letters_Philosophical
+1168	Letters_Literary
+1171	Letters_Literary
+1171	Letters
+1172	Political Economy 
+1173	Sciences_Natural
+1174	Letters_Literary
+1176	Letters_Literary
+1183	Letters_Literary
+1186	Letters_Literary
+1187	Sciences_Medicine
+1188	Letters_Literary
+1190	Letters
+1191	Letters_Antiquarian
+1191	Letters_Literary
+1194	Letters
+1196	Letters_Literary
+1198	Letters_Literary
+1198	Letters_Antiquarian
+1199	Letters_Literary
+1201	Letters_Literary
+1204	Letters_Literary
+1205	Letters_Literary
+1206	Letters_Literary
+1207	Letters_Literary
+1208	Letters_Literary
+1213	Letters_Literary
+1214	Letters_Antiquarian
+1228	Sciences_Natural
+1230	Letters_Literary
+1230	Letters
+1232	Political Economy
+1233	Letters_Literary
+1241	Letters_Literary
+1242	Letters_Literary
+1252	Sciences_Mathematical
+1252	Sciences_Natural
+1253	Sciences_Mathematical
+1259	Sciences_Natural
+1259	Sciences_Medicine
+1261	Letters_Antiquarian
+1265	Letters
+1277	Letters_Literary
+1278	Letters_Philosophical
+1279	Letters_Literary
+1280	Sciences_Medicine
+1280	Sciences_Natural
+1280	Letters_Literary
+1281	Letters_Literary
+1282	Sciences_Medicine
+1282	Sciences_Natural
+1283	Sciences_Mathematical
+1283	Sciences_Natural
+1290	Letters_Literary
+1290	Letters_Religious
+1291	Letters_Literary
+1293	Letters_Literary
+1295	Letters_Literary
+1295	Collector
+1296	Letters_Literary
+1296	Letters_Antiquarian
+1297	Letters_Literary
+1306	Letters_Literary
+1313	Letters_Literary
+1321	Letters_Literary
+1322	Sciences
+1325	Letters_Literary
+1327	Letters_Literary
+1328	Letters_Literary
+1329	Sciences_Mathematical
+1331	Letters_Literary
+1345	Letters_Philosophical
+1345	Letters_Literary
+1346	Letters_Literary
+1347	Letters_Literary
+1349	Letters_Literary
+1349	Political Economy
+1350	Letters_Literary
+1350	Letters_Philosophical
+1351	Letters_Literary
+1352	Letters_Literary
+1353	Letters_Literary
+1353	Letters_Antiquarian
+1353	Collector
+1355	Letters_Literary
+1357	Letters_Literary
+1358	Letters_Philosophical
+1358	Letters_Literary
+1359	Letters
+1359	Letters_Philosophical
+1359	Letters_Literary
+1360	Political Economy
+1360	Letters_Literary
+1361	Letters_Literary
+1361	Letters_Philosophical
+1362	Letters_Literary
+1363	Political Economy
+1364	Letters_Literary
+1365	Letters_Literary
+1366	Letters_Literary
+1367	http://en.wikipedia.org/wiki/Catherine_Bernard
+1369	Letters_Literary
+1372	Letters_Literary
+1374	Letters_Literary
+1376	Letters_Literary
+1379	Letters_Literary
+1382	Letters_Literary
+1383	Letters_Literary
+1385	Letters_Literary
+1386	Letters_Literary
+1388	Letters_Literary
+1392	Letters_Literary
+1393	Letters
+1396	Letters_Antiquarian
+1396	Letters_Religious
+1397	Letters
+1399	Letters_Philosophical
+1400	Letters_Religious
+1402	Letters_Literary
+1403	Letters_Literary
+1404	Letters_Antiquarian
+1405	Letters_Antiquarian
+1406	Letters
+1407	Sciences_Mathematical
+1407	Letters
+1409	Letters_Literary
+1410	Letters_Literary
+1411	Letters_Antiquarian
+1412	Letters_Literary
+1415	Letters_Literary
+1416	Letters
+1420	Letters
+1421	Letters
+1422	Letters_Literary
+1423	Letters_Literary
+1424	Letters_Literary
+1425	Letters_Literary
+1425	Letters_antiquarian
+1428	Letters_Literary
+1429	Political Economy
+1429	Letters
+1430	Letters_Literary
+1431	Letters_Literary
+1431	Sciences_Natural
+1432	Letters_Literary
+1433	Letters_Literary
+1434	Political Economy
+1435	Political Economy
+1442	Political Economy
+1444	Collector
+1444	Letters
+1445	Letters_Literary
+1446	Letters_Literary
+1447	Political Economy 
+1448	Letters_Philosophical
+1448	Letters_Literary
+1449	Political Economy
+1450	Political Economy
+1451	Letters_Literary
+1455	Letters_Literary
+1457	Political Economy
+1457	Sciences_Mathematical
+1458	Letters_Literary
+1458	Political Economy
+1459	Letters_Literary
+1459	Political Economy
+1460	Letters_Literary
+1461	Letters_Literary
+1462	Letters_Literary
+1462	Letters_Antiquarian
+1463	Letters_Literary
+1468	Political Economy
+1468	Letters_Literary
+1469	Political Economy
+1472	Letters_Literary
+1472	Letters_Philosophical
+1472	Political Economy
+1473	Letters_Philosophical
+1473	Letters_Literary
+1474	Letters_Literary
+1475	Letters_Literary
+1476	Sciences
+1477	Sciences_Natural
+1477	Sciences
+1482	Letters_Literary
+1483	Letters
+1485	Letters_Literary
+1489	Letters_Literary
+1490	Letters
+1490	Letters_ancient
+1494	Letters_Literary
+1497	Letters_Literary
+1512	Letters_Antiquarian
+1512	Letters_Literary
+1522	Letters_Literary
+1539	Letters_Literary
+1551	Letters_Literary
+1553	Letters
+1560	Letters_Literary
+1566	Letters_Literary
+1571	Letters_Antiquarian
+1571	Letters_Religious
+1572	Letters_Literary
+1573	Letters_Literary
+1574	Letters
+1575	Letters_Literary
+1575	Sciences_Mathematical
+1575	Political Economy
+1575	Letters_Philosophical
+1576	Letters_Literary
+1576	Political Economy
+1581	Sciences_Natural
+1581	Letters_Literary
+1582	Letters_Literary
+1583	Letters
+1584	Letters_Literary
+1585	Letters
+1590	Political Economy
+1592	Letters_Literary
+1594	Letters_Literary
+1594	Political Economy
+1598	Letters_Literary
+1601	Letters_Literary
+1602	Letters_Literary
+1606	Letters_Philosophical
+1612	Letters
+1614	Letters
+1615	Letters_Literary
+1615	Political Economy
+1617	Letters_Antiquarian
+1621	Political Economy
+1621	Letters_Literary
+1626	Letters_Literary
+1627	Letters_Literary
+1628	Letters_Literary
+1632	Letters_Literary
+1633	Letters_Antiquarian
+1633	Sciences
+1634	Letters
+1637	Letters_Literary
+1639	Letters_Literary
+1640	Letters
+1648	Letters_Literary
+1661	Letters_Antiquarian
+1662	Letters_Literary
+1662	Letters_Philosophical
+1663	Letters_Literary
+1663	Letters_Philosophical
+1664	Letters_Literary
+1664	Letters_Philosophical
+1665	Sciences_Medicine
+1666	Letters_Literary
+1667	Political Economy
+1668	Sciences_Mathematical
+1668	Sciences
+1676	Collector
+1687	Sciences_Medicine
+1701	Political Economy
+1709	Letters_Literary
+1724	Letters_Antiquarian
+1724	Sciences_Mathematical
+1725	Letters_Literary
+1728	Letters_Literary
+1729	Letters_Literary
+1733	Letters_Literary
+1733	Letters_Philosophical
+1733	Political Economy
+1742	Letters_Literary
+1750	Letters_Philosophical
+1753	Sciences_Natural
+1754	Letters_Literary
+1755	Letters_Philosophical
+1755	Political Economy
+1756	Letters_Literary
+1756	Political Economy
+1757	Political Economy
+1758	Letters_Literary
+1759	Letters_Literary
+1760	Sciences_Natural
+1761	Sciences_Mathematical
+1763	Political Economy
+1764	Letters_Philosophical
+1764	Letters_Literary
+1765	Letters_Literary
+1766	Sciences_Natural
+1770	Political Economy
+1772	Letters_Literary
+1776	Sciences_Natural
+1776	Sciences_Mathematical
+1778	Political Economy
+1779	Letters_Religious
+1781	Political Economy
+1781	Letters
