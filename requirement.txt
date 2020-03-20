@@ -1,0 +1,6 @@
+pandas==0.25.3
+matplotlib==2.2.3
+graphviz
+jupyter
+networkx
+scipy
