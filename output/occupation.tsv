@@ -1,49 +1,97 @@
 SP ID	Occupation
-1000	playwright,government agent
-1001	poet,author,playwright
-1002	army officer,diplomat,soldier,academy member,author
-1003	journalist,revolutionary
-1004	author,philosopher
+1000	playwright
+1000	government agent
+1001	poet
+1001	author
+1001	playwright
+1002	army officer
+1002	diplomat
+1002	soldier
+1002	academy member
+1002	author
+1003	journalist
+1003	revolutionary
+1004	author
+1004	philosopher
 1005	author
 1006	composer
 1007	statesman
 1008	aristocrat
-1010	wife of a banker
+1010	wife
 1011	aristocrat
 1012	aristocrat
-1013	archevêque de Toulouse
+1013	archevêque
 1015	salon hostess
 1016	aristocrat
-1017	aristocrat,regent
-1018	academy member,grammarian
-1019	academy member,scientist,astronomer,mathematician,biologist
-1020	courtier,aristocrat
-1021	churchman,philosopher
-1022	diplomat,politician,author
-1023	academy member,churchman
-1024	academy member,poet,author,philosopher
+1017	aristocrat
+1017	regent
+1018	academy member
+1018	grammarian
+1019	academy member
+1019	scientist
+1019	astronomer
+1019	mathematician
+1019	biologist
+1020	courtier
+1020	aristocrat
+1021	churchman
+1021	philosopher
+1022	diplomat
+1022	politician
+1022	author
+1023	academy member
+1023	churchman
+1024	academy member
+1024	poet
+1024	author
+1024	philosopher
 1025	philosopher
-1026	academy member,scientist,author,naturalist
-1027	journalist,author,novelist
+1026	academy member
+1026	scientist
+1026	author
+1026	naturalist
+1027	journalist
+1027	author
+1027	novelist
 1028	financier's wife
-1029	scientist,aristocrat
-1030	general,army officer,soldier,scholar,academy member
-1031	diplomat,government minister
-1032	author,political writer
-1033	writer,judge,academy member
+1029	scientist
+1029	aristocrat
+1030	general
+1030	army officer
+1030	soldier
+1030	scholar
+1030	academy member
+1031	diplomat
+1031	government minister
+1032	author
+1032	political writer
+1033	writer
+1033	judge
+1033	academy member
 1034	writer
-1035	business man,jurist,politician
+1035	business man
+1035	jurist
+1035	politician
 1036	man of letters
 1036	judge
-1037	writer on sport and hunting
-1038	doctor,professor
+1037	writer
+1038	doctor
+1038	professor
 1039	officer
 1040	engineer
-1041	geographer,functionary
-1042	architect,man of letters,engraver,professor
-1043	scholar,physician
-1044	homme de lettres,lawyer,professor
-1045	jurist,laywer
+1041	geographer
+1041	functionary
+1042	architect
+1042	man of letters
+1042	engraver
+1042	professor
+1043	scholar
+1043	physician
+1044	homme de lettres
+1044	lawyer
+1044	professor
+1045	jurist
+1045	lawyer
 1046	maîtres de forges
 1047	physician
 1047	professor
@@ -54,127 +102,283 @@ SP ID	Occupation
 1051	commissaire des guerres
 1051	lawyer
 1052	curé
-1053	scholar,professor,government counselor
-1054	arborist,municipal functionary,government fucntionary,farmer
+1053	scholar
+1053	professor
+1053	government counselor
+1054	arborist
+1054	municipal functionary
+1054	government fucntionary
+1054	farmer
 1055	bookseller
-1056	professor,lawyer
-1057	encyclopediste
-1058	writer,local functionary
+1056	professor
+1056	lawyer
+1057	encyclopedist
+1058	writer
+1058	local functionary
 1059	translator
-1060	writer,merchant,functionary
-1061	writer,ecoomist,businessman,royal functionary
-1062	doctor,professor
+1060	writer
+1060	merchant
+1060	functionary
+1061	writer
+1061	economist
+1061	business man
+1061	royal functionary
+1062	doctor
+1062	professor
 1063	blacksmith
-1064	technician,artist
-1065	scholar,writer,rural property owner
+1064	technician
+1064	artist
+1065	scholar
+1065	writer
+1065	rural property owner
 1066	police officer
-1067	officer,courtier
+1067	officer
+1067	courtier
 1068	encyclopedist
-1069	mathematician,teacher
-1070	lawyer,provincial functionary
-1071	writer,lawyer
-1072	teacher,tutor,author of handbooks
+1069	mathematician
+1069	teacher
+1070	lawyer
+1070	provincial functionary
+1071	writer
+1071	lawyer
+1072	teacher
+1072	tutor
+1072	author
 1073	tutor
-1074	physician,courtier,teacher,scholar
-1075	engineer,encyclopedist
-1076	physician,professor,scholar
-1077	writer,officer,farmer,politician
+1074	physician
+1074	courtier
+1074	teacher
+1074	scholar
+1075	engineer
+1075	encyclopedist
+1076	physician
+1076	professor
+1076	scholar
+1077	writer
+1077	officer
+1077	farmer
+1077	politician
 1078	surgeon
-1079	artist,technician,architect
+1079	artist
+1079	technician
+1079	architect
 1080	goldsmith
-1081	priest,writer,tutor,professor
-1082	physician,professor
+1081	priest
+1081	writer
+1081	tutor
+1081	professor
+1082	physician
+1082	professor
 1083	priest
 1084	encyclopedist
-1085	maître d'hôtel,ceramist
-1086	financier,royal functionary,writer
+1085	maître d'hôtel
+1085	ceramist
+1086	financier
+1086	royal functionary
+1086	writer
 1087	officer
-1088	surgeon,scholar,professor
-1089	professor,businessman
+1088	surgeon
+1088	scholar
+1088	professor
+1089	professor
+1089	business man
 1090	aristocrat
-1091	expert on writing and calligraphy,poet
+1091	expert on writing and calligraphy
+1091	poet
 1092	engraver
 1093	specialist on educational administration
 1094	physician
-1095	priest,tutor
-1096	physician,professor
+1095	priest
+1095	tutor
+1096	physician
+1096	professor
 1097	priest
 1098	judge
 1099	geographer
-1100	clockmaker,bookseller,editor
+1100	clockmaker
+1100	bookseller
+1100	editor
 1101	encyclopedist
-1102	scholar,professor,priest
-1103	artist,engraver,school administrator,architect
-1104	scholar,probably a physician
+1102	scholar
+1102	professor
+1102	priest
+1103	artist
+1103	engraver
+1103	school administrator
+1103	architect
+1104	scholar
+1104	probably a physician
 1105	encyclopedist
 1106	physician
-1107	scholar,physician,professor
-1108	physician,writer
+1107	scholar
+1107	physician
+1107	professor
+1108	physician
+1108	writer
 1109	huntsman
 1110	engineer
-1111	physician,professor
-1112	priest,writer
-1113	historian,author,geographer,philosopher
-1114	philosopher,grammarian,lawyer
-1115	economist,surgeon
-1116	scientist,physicist,mathematician,explorer
-1117	academy member,civil engineer
-1118	bookseller,printer
-1119	scholar,magistrate
+1111	physician
+1111	professor
+1112	priest
+1112	writer
+1113	historian
+1113	author
+1113	geographer
+1113	philosopher
+1114	philosopher
+1114	grammarian
+1114	lawyer
+1115	economist
+1115	surgeon
+1116	scientist
+1116	physicist
+1116	mathematician
+1116	explorer
+1117	academy member
+1117	civil engineer
+1118	bookseller
+1118	printer
+1119	scholar
+1119	magistrate
 1120	veterinarian
-1121	academic,college principal,poet,author,financier
-1122	scholar,aristocrat
-1123	writer,professor,journalist,translator
-1124	artist,sculptor
-1125	academy member,translator,grammarian,professor
-1126	author,travel writer
+1121	academic
+1121	college principal
+1121	poet
+1121	author
+1121	financier
+1122	scholar
+1122	aristocrat
+1123	writer
+1123	professor
+1123	journalist
+1123	translator
+1124	artist
+1124	sculptor
+1125	academy member
+1125	translator
+1125	grammarian
+1125	professor
+1126	author
+1126	travel writer
 1127	theologian
-1128	politician,revolutionary,philosopher
+1128	politician
+1128	revolutionary
+1128	philosopher
 1129	playwright
-1130	civil engineer,man of letters,scholar
-1131	aristocrat,scholar,judge
-1132	physician,doctor,journalist
-1133	geologist,encyclopediste
+1130	civil engineer
+1130	man of letters
+1130	scholar
+1131	aristocrat
+1131	scholar
+1131	judge
+1132	physician
+1132	doctor
+1132	journalist
+1133	geologist
+1133	encyclopedist
 1133	scholar
-1134	local functionary,government official,writer on military matters
-1135	political economist,law reformer
-1136	dramatist,functionary
-1137	physician,doctor,author,medical writer
-1138	scholar,university professor,chancellor,judge
-1139	soldier,academy member,author
-1140	courtier,writer,officer
-1141	printer,bookseller
-1142	academy member,clergyman,author
-1143	theologian,clergyman
-1144	physician,scientist,mathematician
-1145	academy member,clockmaker
-1146	scholar,university professor,academic
-1147	clergyman,author
-1148	physician,writer
-1150	academy member,historian
-1151	lawyer,civil servant
-1152	physician,doctor,scientist,author,encyclopaedist
-1153	scientist,geographer,cartographer
-1154	academy member,philosopher,mathematician
-1155	statesman,economist
-1156	court official,writer
-1157	courtier,author
-1158	diplomat,author,critic
-1159	aristocrat,author,amateur scientist
-1160	academy member,author,censor
-1161	diplomat,government minister
+1134	local functionary
+1134	government official
+1134	writer
+1135	political economist
+1135	law reformer
+1136	dramatist
+1136	functionary
+1137	physician
+1137	doctor
+1137	author
+1137	medical writer
+1138	scholar
+1138	university professor
+1138	chancellor
+1138	judge
+1139	soldier
+1139	academy member
+1139	author
+1140	courtier
+1140	writer
+1140	officer
+1141	printer
+1141	bookseller
+1142	academy member
+1142	clergy
+1142	author
+1143	theologian
+1143	clergy
+1144	physician
+1144	scientist
+1144	mathematician
+1145	academy member
+1145	clockmaker
+1146	scholar
+1146	university professor
+1146	academic
+1147	clergy
+1147	author
+1148	physician
+1148	writer
+1150	academy member
+1150	historian
+1151	lawyer
+1151	civil servant
+1152	physician
+1152	doctor
+1152	scientist
+1152	author
+1152	encyclopedist
+1153	scientist
+1153	geographer
+1153	cartographer
+1154	academy member
+1154	philosopher
+1154	mathematician
+1155	statesman
+1155	economist
+1156	court official
+1156	writer
+1157	courtier
+1157	author
+1158	diplomat
+1158	author
+1158	critic
+1159	aristocrat
+1159	author
+1159	amateur scientist
+1160	academy member
+1160	author
+1160	censor
+1161	diplomat
+1161	government minister
 1162	aristocrat
-1163	army officer,soldier
-1164	aristocrat,author,salon hostess
-1165	academy member,magistrate,philosopher
-1166	Jacobite,philosopher
-1167	academy member,political reformer
-1168	academy member,poet,author,playwright
-1169	diplomat,politician
+1163	army officer
+1163	soldier
+1164	aristocrat
+1164	author
+1164	salon hostess
+1165	academy member
+1165	magistrate
+1165	philosopher
+1166	Jacobite
+1166	philosopher
+1167	academy member
+1167	political reformer
+1168	academy member
+1168	poet
+1168	author
+1168	playwright
+1169	diplomat
+1169	politician
 1170	aristocrat
-1171	aristocrat,poet,author,salon hostess
-1173	scientist,chemist,financier,musician
-1174	author,salon hostess
+1171	aristocrat
+1171	poet
+1171	author
+1171	salon hostess
+1173	scientist
+1173	chemist
+1173	financier
+1173	musician
+1174	author
+1174	salon hostess
 1176	musician
 1176	writer
 1176	adopted son of Genlis
@@ -195,14 +399,14 @@ SP ID	Occupation
 1188	society woman
 1188	amateur actress
 1189	Créole
-1189	wife of maréchal de France
+1189	wife
 1190	aristocrat
 1191	aristocrat
 1192	aristocrat
 1193	actress
 1194	socialite
 1194	later Princesse de Chimay
-1195	wife of a playwright
+1195	wife
 1195	later comtesse de Montholon
 1196	writer
 1197	niece of Beaumarchais
@@ -215,44 +419,65 @@ SP ID	Occupation
 1203	poet
 1204	poet
 1205	memoirist
-1206	poet,author
+1206	poet
+1206	author
 1207	historian
-1208	diplomat,prime minister,poet,author
+1208	diplomat
+1208	prime minister
+1208	poet
+1208	author
 1209	diplomat
 1209	military personnel
 1209	academy member
 1209	member of the Riksdag
-1210	aristocrat,salon hostess
+1210	aristocrat
+1210	salon hostess
 1211	king
 1212	prince
 1212	duc
 1213	salonnière
-1214	author,archaeologist
-1216	captain of the Swiss guards
+1214	author
+1214	archaeologist
+1216	captain
 1217	aristocrat
-1217	wife of diplomat
+1217	wife
 1218	composer
 1219	composer
 1220	singer
 1221	musician
-1222	general,army officer,soldier,aristocrat,government minister
+1222	general
+1222	army officer
+1222	soldier
+1222	aristocrat
+1222	government minister
 1223	politician
 1223	member of Parliament
 1224	aristocrat
-1224	wife of diplomat
+1224	wife
 1225	ambassador
 1225	aristocrat
 1226	actress
-1226	daughter of actors
-1226	mistress of Casanova
-1226	wife of François Bondel
+1226	daughter
+1226	mistress
+1226	wife
 1227	aristocrat
-1228	scientist,chemist,civil servant
+1228	scientist
+1228	chemist
+1228	civil servant
 1229	salonnière
-1230	historian,author,encyclopaedist
-1231	academy member,painter,artist
-1232	general,army officer,diplomat,statesman,soldier,aristocrat
-1233	maréchal de camp
+1230	historian
+1230	author
+1230	encyclopedist
+1231	academy member
+1231	painter
+1231	artist
+1232	general
+1232	army officer
+1232	diplomat
+1232	statesman
+1232	soldier
+1232	aristocrat
+1233	maréchal
 1234	aristocrat
 1235	artist
 1235	painter
@@ -266,8 +491,8 @@ SP ID	Occupation
 1241	royalty
 1242	maurist clergy
 1242	erudite
-1243	aristocrat in the service of the queen
-1244	aristocrat in the service of the dauphine
+1243	aristocrat
+1244	aristocrat
 1245	clergy
 1246	aristocrat
 1247	painter
@@ -281,15 +506,15 @@ SP ID	Occupation
 1250	salonnière
 1251	painter
 1251	disciple of Carle Van Loo
-1252	clock-maker
+1252	clockmaker
 1253	astronomer
 1253	scientist
 1254	Stanislas' mistress
 1255	mistress
 1256	wife
 1257	brother of Pompadour
-1257	courtier?
-1258	maréchale de France
+1257	courtier
+1258	maréchal
 1259	botanist
 1260	oncle paternel de la princesse Sophie
 1261	librarian
@@ -306,8 +531,8 @@ SP ID	Occupation
 1265	monarch
 1266	son of a general
 1267	manufacturing
-1268	mistress of Stanislas
-1270	wife of lieutenant de police
+1268	mistress
+1270	wife
 1271	architect
 1272	courtier
 1273	courtier
@@ -316,11 +541,19 @@ SP ID	Occupation
 1275	artist
 1275	painter
 1276	clergy
-1277	academy member,poet,author,art critic
-1278	university professor,academic,teacher,schoolmaster
+1277	academy member
+1277	poet
+1277	author
+1277	art critic
+1278	university professor
+1278	academic
+1278	teacher
+1278	schoolmaster
 1279	salonnière
 1279	hostess
-1280	physician,chemist,journalist
+1280	physician
+1280	chemist
+1280	journalist
 1281	salon hostess
 1282	chemist
 1283	scientist
@@ -333,16 +566,25 @@ SP ID	Occupation
 1287	aristocrat
 1288	aristocrat
 1289	government minister
-1290	academy member,preacher,priest,poet,author
-1291	author,playwright
+1290	academy member
+1290	preacher
+1290	priest
+1290	poet
+1290	author
+1291	author
+1291	playwright
 1292	aristocrat
-1293	academy member,author
+1293	academy member
+1293	author
 1294	aristocrat
-1295	diplomat,government minister,bibliophile
-1296	scholar,playwright
-1297	officier
+1295	diplomat
+1295	government minister
+1295	bibliophile
+1296	scholar
+1296	playwright
+1297	officer
 1298	lawyer
-1300	captain of a regiment
+1300	captain
 1306	clergy
 1307	fermier général et actionnaire de la Manufacture de Vincennes
 1310	doctor
@@ -353,7 +595,7 @@ SP ID	Occupation
 1321	poet
 1321	librarian
 1322	engineer
-1323	maréchal de France
+1323	maréchal
 1324	général
 1324	maréchal
 1326	clergy
@@ -367,26 +609,51 @@ SP ID	Occupation
 1338	painter
 1339	aristocrat
 1340	aristocrat
-1344	general,army officer,diplomat,soldier
-1345	author,philosopher
+1344	general
+1344	army officer
+1344	diplomat
+1344	soldier
+1345	author
+1345	philosopher
 1346	academy member
-1347	aristocrat,salon hostess
+1347	aristocrat
+1347	salon hostess
 1348	government minister
-1349	aristocrat,government minister
-1350	academy member,poet,author,philosopher
-1351	politician,academy member
-1352	poet,author,playwright,musician
+1349	aristocrat
+1349	government minister
+1350	academy member
+1350	poet
+1350	author
+1350	philosopher
+1351	politician
+1351	academy member
+1352	poet
+1352	author
+1352	playwright
+1352	musician
 1353	aristocrat
 1354	actress
-1355	author,playwright
-1356	diplomat,aristocrat
-1357	politician,radical
-1358	writer,academy member
-1359	author,philosopher,encyclopaedist
-1360	diplomatic official,wit
-1361	historian,journalist
-1362	general,army officer,soldier,author
-1363	politician,revolutionary
+1355	author
+1355	playwright
+1356	diplomat
+1356	aristocrat
+1357	politician
+1357	radical
+1358	writer
+1358	academy member
+1359	author
+1359	philosopher
+1359	encyclopedist
+1360	diplomat
+1360	wit
+1361	historian
+1361	journalist
+1362	general
+1362	army officer
+1362	soldier
+1362	author
+1363	politician
+1363	revolutionary
 1364	salonnière
 1364	hostess
 1365	writer
@@ -396,7 +663,7 @@ SP ID	Occupation
 1366	writer
 1366	novelist
 1369	soldier
-1369	diplomat and writer of memoirs
+1369	diplomat
 1370	foreign minister
 1372	author
 1374	composer
@@ -421,35 +688,35 @@ SP ID	Occupation
 1395	translator
 1396	Jesuit
 1396	essayist
-1396	grammatrian
+1396	grammarian
 1397	aristocrat
 1397	writer
 1397	historian
-1398	clergyman
+1398	clergy
 1399	Jesuit
-1400	clergyman
-1401	clergyman
+1400	clergy
+1401	clergy
 1402	author
 1402	army officer
 1402	academy member
 1403	academy member
-1404	clergyman
+1404	clergy
 1405	soldier
 1405	orientalist
 1405	professor
 1405	academy member
 1406	writer
-1406	clergyman
+1406	clergy
 1406	professor
 1406	academy member
-1407	clergyman
+1407	clergy
 1407	professor
 1407	academy member
 1407	royal librarian
-1408	clergyman
+1408	clergy
 1408	writer
 1408	academy member
-1409	clergyman
+1409	clergy
 1409	academy member
 1410	lawyer
 1410	author
@@ -460,42 +727,60 @@ SP ID	Occupation
 1412	writer
 1412	academy member
 1413	aristocrat
-1413	army officier
+1413	army officer
 1414	aristocrat
-1414	army officier
+1414	army officer
 1415	aristocrat
 1415	academy member
 1416	aristocrat
-1416	army officier
+1416	army officer
 1417	aristocrat
-1417	army officier
+1417	army officer
 1418	aristocrat
-1418	army officier
+1418	army officer
 1418	son of Mazarin
 1419	colonel
 1419	aristocrat
 1419	ambassador
 1420	aristocrat
-1420	army officier
+1420	army officer
 1421	author
 1422	poet
 1422	army officer
 1422	academy member
 1423	playwright
 1423	academy member
-1424	academy member,tutor
-1425	academy member,clergyman,journalist
+1424	academy member
+1424	tutor
+1425	academy member
+1425	clergy
+1425	journalist
 1425	aristocrat
-1426	civil servant,police official
+1426	civil servant
+1426	police official
 1427	aristocrat
-1428	diplomat,author,patron
+1428	diplomat
+1428	author
+1428	patron
 1429	statesman
 1430	aristocrat
-1431	scientist,author,botanist
-1432	army officer,soldier,academy member,author,military writer
-1433	author,salon hostess
-1434	army officer,soldier,politician
-1435	judge,diplomat,governor,provincial governor
+1431	scientist
+1431	author
+1431	botanist
+1432	army officer
+1432	soldier
+1432	academy member
+1432	author
+1432	military writer
+1433	author
+1433	salon hostess
+1434	army officer
+1434	soldier
+1434	politician
+1435	judge
+1435	diplomat
+1435	governor
+1435	provincial governor
 1436	aristocrat
 1437	aristocrat
 1438	aristocrat
@@ -506,12 +791,21 @@ SP ID	Occupation
 1443	aristocrat
 1444	art collector
 1445	diplomat
-1446	academy member,poet,author,critic
+1446	academy member
+1446	poet
+1446	author
+1446	critic
 1447	politician
-1448	historian,philosopher
+1448	historian
+1448	philosopher
 1449	politician
-1450	general,army officer,soldier,politician,aristocrat,revolutionary
-1452	archêveque de Paris
+1450	general
+1450	army officer
+1450	soldier
+1450	politician
+1450	aristocrat
+1450	revolutionary
+1452	archevêque
 1453	archbishop
 1453	cardinal
 1453	ambassador
@@ -521,32 +815,71 @@ SP ID	Occupation
 1455	soldier
 1455	officer
 1456	Deffand's aunt
-1457	politician,revolutionary,mathematician
-1458	politician,journalist,revolutionary
-1459	politician,poet,author,playwright,revolutionary
-1460	statesman,author,orator
-1461	actor,playwright
-1462	politician,author,novelist,medievalist
+1457	politician
+1457	revolutionary
+1457	mathematician
+1458	politician
+1458	journalist
+1458	revolutionary
+1459	politician
+1459	poet
+1459	author
+1459	playwright
+1459	revolutionary
+1460	statesman
+1460	author
+1460	orator
+1461	actor
+1461	playwright
+1462	politician
+1462	author
+1462	novelist
+1462	medievalist
 1463	salon hostess
 1465	actress
 1466	aristocrat
 1468	clergy
 1470	aristocrat
 1471	aristocrat
-1472	author,salon hostess
-1473	author,essayist,philosopher
-1474	author,playwright,critic
-1475	journalist,poet,author,playwright
-1476	politician,scientist
-1477	academy member,physician,doctor,scientist,botanist
-1478	general,army officer,soldier
-1479	army officer,soldier,adventurer
+1472	author
+1472	salon hostess
+1473	author
+1473	essayist
+1473	philosopher
+1474	author
+1474	playwright
+1474	critic
+1475	journalist
+1475	poet
+1475	author
+1475	playwright
+1476	politician
+1476	scientist
+1477	academy member
+1477	physician
+1477	doctor
+1477	scientist
+1477	botanist
+1478	general
+1478	army officer
+1478	soldier
+1479	army officer
+1479	soldier
+1479	adventurer
 1480	adventurer
-1481	courtier,army officer,diplomat,soldier
-1482	poet,author,conversationalist
+1481	courtier
+1481	army officer
+1481	diplomat
+1481	soldier
+1482	poet
+1482	author
+1482	conversationalist
 1483	statesman
-1484	politician,aristocrat
-1485	author,playwright,songwriter
+1484	politician
+1484	aristocrat
+1485	author
+1485	playwright
+1485	songwriter
 1488	politician
 1488	aristocrat
 1489	librettist
@@ -586,44 +919,44 @@ SP ID	Occupation
 1523	Composer
 1524	aristocrat
 1524	socialite
-1524	précieuse
+1524	préciseuse
 1525	aristocrat
 1525	socialite
-1525	précieuse
+1525	préciseuse
 1526	aristocrat
 1526	socialite
-1526	précieuse
+1526	préciseuse
 1527	aristocrat
 1527	socialite
-1527	précieuse
+1527	préciseuse
 1528	aristocrat
 1528	socialite
-1528	précieuse
+1528	préciseuse
 1529	aristocrat
 1529	socialite
-1529	précieuse
+1529	préciseuse
 1530	aristocrat
 1530	socialite
-1530	précieuse
+1530	préciseuse
 1531	aristocrat
 1531	socialite
-1531	précieuse
+1531	préciseuse
 1532	aristocrat
 1532	socialite
-1532	précieuse
+1532	préciseuse
 1533	aristocrat
 1533	socialite
-1533	précieuse
+1533	préciseuse
 1534	aristocrat
 1534	socialite
-1534	précieuse
+1534	préciseuse
 1534	writer
 1553	writer
 1553	novelist
-1555	wife of the chancelier de France?
+1555	wife
 1557	Composer
 1560	bishop
-1560	poet and exegete
+1560	poet
 1563	writer
 1564	aristocrat
 1565	aristocrat
@@ -632,23 +965,27 @@ SP ID	Occupation
 1566	dramatist
 1567	aristocrat
 1567	socialite
-1567	précieuse
+1567	préciseuse
 1568	aristocrat
 1568	socialite
-1568	précieuse
+1568	préciseuse
 1569	aristocrat
 1569	socialite
-1569	précieuse
+1569	préciseuse
 1570	aristocrat
 1570	socialite
-1570	précieuse
-1571	clergyman
+1570	préciseuse
+1571	clergy
 1571	writer
 1571	moralist
 1572	writer
 1574	writer
-1575	economist,mathematician
-1576	politician,author,novelist,political writer
+1575	economist
+1575	mathematician
+1576	politician
+1576	author
+1576	novelist
+1576	political writer
 1581	Botanist
 1582	lawyer
 1582	politician
@@ -658,7 +995,7 @@ SP ID	Occupation
 1588	soldier
 1588	diplomat
 1589	politician
-1589	minister
+1589	minster
 1589	soldier
 1589	academy member
 1593	politician
@@ -687,7 +1024,7 @@ SP ID	Occupation
 1611	soldier
 1611	politician
 1612	journalist
-1612	revolutionary politician
+1612	revolutionary
 1612	writer
 1613	monarch
 1614	salonnière
@@ -705,16 +1042,25 @@ SP ID	Occupation
 1630	general
 1630	diplomat
 1631	aristocrat
-1631	daughter of the Grand-Conti
-1632	diplomat,politician,poet,author
-1633	academy member,scientist,antiquarian
-1634	diplomat,politician
+1631	daughter
+1632	diplomat
+1632	politician
+1632	poet
+1632	author
+1633	academy member
+1633	scientist
+1633	antiquarian
+1634	diplomat
+1634	politician
 1635	churchman
-1636	statesman,churchman
-1637	poet,author
+1636	statesman
+1636	churchman
+1637	poet
+1637	author
 1638	judge
 1639	academy member
-1640	mistress,aristocrat
+1640	mistress
+1640	aristocrat
 1641	mistress
 1642	writer
 1643	aristocrat
@@ -733,24 +1079,31 @@ SP ID	Occupation
 1651	clergy
 1651	aumônier de M. l'archevêque d'Embrun
 1652	clergy
-1652	professor at the Sorbonne
+1652	professor
 1653	aristocrat
 1654	aristocrat
 1655	avocat général de la Cour des Àydes
-1656	clergyman
-1657	clergyman
+1656	clergy
+1657	clergy
 1658	tax administrator
-1658	receveur général des finances de Soissons
+1658	receveur général des finances
 1659	politician
 1660	politician
 1661	aristocrat
 1662	clergy
 1663	writer
 1663	academy member
-1665	physician,doctor
-1666	lawyer,academy member,playwright
-1667	economist,aristocrat
-1668	academy member,scientist,astronomer,physicist
+1665	physician
+1665	doctor
+1666	lawyer
+1666	academy member
+1666	playwright
+1667	economist
+1667	aristocrat
+1668	academy member
+1668	scientist
+1668	astronomer
+1668	physicist
 1669	aristocrat
 1670	aristocrat
 1671	aristocrat
@@ -765,7 +1118,7 @@ SP ID	Occupation
 1681	aristocrat
 1681	politician
 1682	aristocrat
-1683	archevêque de Tours
+1683	archevêque
 1684	aristocrat
 1685	aristocrat
 1686	Evêque de Carcassonne
@@ -791,7 +1144,11 @@ SP ID	Occupation
 1706	aristocrat
 1707	aristocrat
 1708	aristocrat
-1709	general,army officer,soldier,aristocrat,government minister
+1709	general
+1709	army officer
+1709	soldier
+1709	aristocrat
+1709	government minister
 1710	aristocrat
 1712	aristocrat
 1713	aristocrat
@@ -804,11 +1161,13 @@ SP ID	Occupation
 1717	aristocrat
 1718	aristocrat
 1719	aristocrat
-1720	daughter of M de Courson
+1720	daughter
 1721	banker
 1722	aristocrat
 1723	aristocrat
-1724	academy member,physician,doctor
+1724	academy member
+1724	physician
+1724	doctor
 1725	priest
 1725	scholar
 1726	aristocrat
@@ -817,8 +1176,10 @@ SP ID	Occupation
 1729	aristocrat
 1730	aristocrat
 1731	diplomat
-1732	diplomat,statesman
-1733	author,salon hostess
+1732	diplomat
+1732	statesman
+1733	author
+1733	salon hostess
 1734	aristocrat
 1735	aristocrat
 1735	salon hostess
@@ -852,15 +1213,27 @@ SP ID	Occupation
 1750	courtier
 1751	aristocrat
 1751	courtier
-1753	scientist,academy member
-1754	clergyman,author,novelist
-1755	political economist,philosopher
-1756	economist,author,legal writer,criminologist
+1753	scientist
+1753	academy member
+1754	clergy
+1754	author
+1754	novelist
+1755	political economist
+1755	philosopher
+1756	economist
+1756	author
+1756	legal writer
+1756	criminologist
 1757	economist
-1758	historian,author,playwright,novelist
-1759	politician,bookbinder
+1758	historian
+1758	author
+1758	playwright
+1758	novelist
+1759	politician
+1759	bookbinder
 1760	chemist
-1761	mathematician,laird
+1761	mathematician
+1761	laird
 1762	statesman
 1763	publicist
 1763	lawyer

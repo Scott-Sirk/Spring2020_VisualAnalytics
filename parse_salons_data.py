@@ -1,4 +1,5 @@
 #parse and normalize the data for the salons project
+import lookup
 
 def read_file(raw_data_file):
     #read file in as list of lines
@@ -49,10 +50,12 @@ def make_1_to_many_files(data_point, unique_id, column_name, output_locn):
     if data_point != b'':
         #open the output file
         with open(output_locn + '\\' + fname + '.tsv', 'ab') as my_file:
-            #split on a comma
-            for dp in data_point.split(b', '):
+            #split on a comma - change comma-space to just comma to make it catch more
+            for dp in data_point.replace(b', ', b',').split(b','):
                 #write the data to the 1->M file
-                my_file.write(unique_id + b'\t' + dp.replace(b'"', b'') + b'\n')
+                my_file.write(unique_id + b'\t'
+                              + lookup.correct_spelling.get(dp.replace(b'"', b''), dp.replace(b'"', b''))
+                              + b'\n')
                     
 def main():
     #vars...
