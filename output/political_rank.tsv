@@ -1,8 +1,8 @@
 SP ID	Political rank
 1002	diplomat
-1007	minister
+1007	minster
 1022	diplomat
-1031	minister
+1031	minster
 1035	dput
 1038	officier municipal
 1048	consul-maire
@@ -16,42 +16,42 @@ SP ID	Political rank
 1139	administrateur colonial
 1139	membre de l'Assemble lgislative
 1139	dput
-1155	minister
+1155	minster
 1158	diplomat
 1160	censor
-1161	minister
+1161	minster
 1165	magistrate
 1169	diplomat
 1202	monarch
 1208	diplomat
 1209	diplomat
 1209	member of the Riksdag
-1222	minister
+1222	minster
 1223	peer
 1223	diplomat
 1223	MP
 1223	PC
-1232	minister
+1232	minster
 1262	ministre
 1262	diplomate
-1289	minister
-1295	minister
+1289	minster
+1295	minster
 1344	diplomat
-1348	minister
-1349	minister
+1348	minster
+1349	minster
 1356	diplomat
 1360	diplomat
 1426	police
 1428	diplomat
-1429	minister
+1429	minster
 1435	diplomat
 1481	diplomat
-1483	minister
+1483	minster
 1604	monarch
 1613	monarch
 1632	diplomat
 1634	diplomat
-1636	minister
+1636	minster
 1638	judge
 1671	ministre
 1681	Peer
@@ -60,5 +60,5 @@ SP ID	Political rank
 1715	gouverneur
 1721	MP
 1731	diplomat
-1732	minister
+1732	minster
 1778	conseiller

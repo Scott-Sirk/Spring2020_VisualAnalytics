@@ -22,7 +22,7 @@ SP ID	Social Network
 1008	Elite
 1008	Court
 1009	Elite
-1010	Elite?
+1010	Elite
 1011	Nobility
 1011	Military
 1011	Elite
@@ -31,7 +31,7 @@ SP ID	Social Network
 1012	Military
 1012	Court
 1013	Nobility
-1013	Elite 
+1013	Elite
 1014	Elite
 1015	Elite
 1016	Nobility
@@ -42,7 +42,7 @@ SP ID	Social Network
 1017	Military
 1017	Elite
 1018	Nobility
-1018	Elite 
+1018	Elite
 1019	Elite
 1020	Nobility
 1020	Court
@@ -143,7 +143,7 @@ SP ID	Social Network
 1115	Court
 1116	Military
 1116	Nobility
-1116	Elite 
+1116	Elite
 1117	Government
 1117	Nobility
 1117	Elite
@@ -382,7 +382,7 @@ SP ID	Social Network
 1262	Elite
 1262	Government
 1262	Nobility
-1263	Government 
+1263	Government
 1265	Nobility
 1265	Elite
 1265	Government
@@ -443,7 +443,7 @@ SP ID	Social Network
 1303	Nobility
 1305	Nobility
 1311	Nobility
-1311	Eite
+1311	Elite
 1313	Nobility
 1313	Elite
 1314	Nobility
@@ -1127,7 +1127,7 @@ SP ID	Social Network
 1709	Government
 1709	Military
 1709	Elite
-1709	Aristocracy
+1709	Aristoracy
 1711	Elite
 1711	Nobility
 1712	Elite
@@ -1152,7 +1152,7 @@ SP ID	Social Network
 1719	Nobility
 1719	Court
 1721	Elite
-1721	Government_MP
+1721	Government
 1722	Elite
 1722	Nobility
 1722	Court
@@ -1268,12 +1268,12 @@ SP ID	Social Network
 1774	Elite
 1774	Government
 1774	Court
-1774	Miltiary
+1774	Military
 1775	Nobility
 1775	Elite
 1775	Government
 1775	Court
-1775	Miltiary
+1775	Military
 1776	Elite
 1777	Government
 1777	Elite
